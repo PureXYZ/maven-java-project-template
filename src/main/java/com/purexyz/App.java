@@ -3,7 +3,7 @@ package com.purexyz;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Hello world!
+ * Hello world program.
  */
 @Slf4j
 public class App {

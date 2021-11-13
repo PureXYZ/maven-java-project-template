@@ -31,3 +31,6 @@ docker run -i --rm --name maven-java-project-template maven-java-project-templat
 ```
 [main] INFO com.purexyz.App - Hello World!
 ```
+
+### Style
+[google_checks.xml](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml)
