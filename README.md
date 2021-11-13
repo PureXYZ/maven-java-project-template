@@ -1,5 +1,6 @@
 # maven-java-project-template
 
+[![Tests](https://github.com/PureXYZ/maven-java-project-template/actions/workflows/maven-tests.yml/badge.svg?branch=main&event=push)](https://github.com/PureXYZ/maven-java-project-template/actions/workflows/maven-tests.yml)
 [![CheckStyle](https://github.com/PureXYZ/maven-java-project-template/actions/workflows/maven-style.yml/badge.svg?branch=main&event=push)](https://github.com/PureXYZ/maven-java-project-template/actions/workflows/maven-style.yml)
 
 ### Structure
